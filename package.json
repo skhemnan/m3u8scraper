@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/skhemnan/m3u8scraper#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "puppeteer": "^5.2.1"
   }
 }
